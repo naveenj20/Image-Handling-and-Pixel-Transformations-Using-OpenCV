@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/02afd7e4-7d08-459a-88c6-ce3a897b3f66)# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
