@@ -1,4 +1,4 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+![image](https://github.com/user-attachments/assets/02afd7e4-7d08-459a-88c6-ce3a897b3f66)# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -221,11 +221,32 @@ plt.show()
 - 2. Save image as PNG
   ![Screenshot 2025-03-24 094125](https://github.com/user-attachments/assets/5fb8dc54-404e-4a04-8261-047a7f116a4b)
   3. Cropped Image
+  ![Screenshot 2025-03-29 110716](https://github.com/user-attachments/assets/39cba8f3-86d9-4ec6-b3f5-2bbccd8227af)
+  4. Resize and Flip Horizontally
+  ![Screenshot (3)](https://github.com/user-attachments/assets/efec855d-f45d-4ae6-9f53-b5ddb6218427)
+  5. Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+  ![Screenshot 2025-03-29 110946](https://github.com/user-attachments/assets/ed9f9c84-7c79-4814-81c5-422c6cab4546)
   
-  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
+- **ii)** Adjust Image Brightness.
+  1.Create brighter and darker images and display:
+  ![Screenshot 2025-03-29 111429](https://github.com/user-attachments/assets/9dfb418b-5bf3-4f51-9f06-0553bb81760b)
+
+- **iii)** Modify Image Contrast.
+  1. Modify contrast using scaling factors 1.1 and 1.2:
+  ![Screenshot 2025-03-29 111723](https://github.com/user-attachments/assets/d382e4b1-33b7-497e-acb3-6fbab87ebcc1)
+
 - **iv)** Generate Third Image Using Bitwise Operations.
+  1. Split 'Boy.jpg' into B, G, R components and display:
+  ![Screenshot 2025-03-29 112011](https://github.com/user-attachments/assets/86cd6c65-72f6-4d2d-a1ca-e2f3533f834a)
+
+  2. Merge the R, G, B channels and display:
+  ![Screenshot 2025-03-29 112852](https://github.com/user-attachments/assets/5f1c32a7-171d-4ea5-80b8-54991cda6868)
+
+  3. Split the image into H, S, V components and display:
+  ![Screenshot 2025-03-29 113207](https://github.com/user-attachments/assets/dd48500c-3d85-48a0-8907-2924e9e86e81)
+
+  4. Merge the H, S, V channels and display:
+  ![Screenshot 2025-03-29 113426](https://github.com/user-attachments/assets/d3fa3dee-6aed-452f-b571-19a4b71b47ea)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
